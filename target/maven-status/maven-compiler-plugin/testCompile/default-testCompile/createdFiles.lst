@@ -1,0 +1,4 @@
+pe/edu/vallegrande/beneficiary/BeneficiaryApplicationTests.class
+pe/edu/vallegrande/beneficiary/controller/PersonControllerTest.class
+pe/edu/vallegrande/beneficiary/config/SecurityTestConfig.class
+pe/edu/vallegrande/beneficiary/service/PersonServiceTest.class
